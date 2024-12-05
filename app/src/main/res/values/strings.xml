@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Local DB</string>
+    <string name="add_book">Добавить книгу</string>
+</resources>
